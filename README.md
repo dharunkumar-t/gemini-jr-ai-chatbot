@@ -1,2 +1,2 @@
 # gemini-jr-ai-chatbot
-gemini powered ai chatbot 
+This chatbot web application is built using React on the front end, giving a dynamic and responsive user experience. Express.js is used on the backend to handle server-side operations and API calls. MongoDB serves as the database for storing user data and chat histories. The chatbot capability is powered by Google Gemini AI, which allows for natural language processing and sophisticated conversation skills.
